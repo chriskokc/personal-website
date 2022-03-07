@@ -105,14 +105,14 @@ h3 {
 }
 
 .footer-link {
-    color: #11999E;
+    color: #EAF6F6;
     margin: 10px 20px;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
 }
 
 .footer-link:hover {
-    color: #EAF6F6;
+    color: #11999E;
 }
 
 /* https://css3buttongenerator.com/ */
